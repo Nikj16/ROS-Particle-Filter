@@ -1,0 +1,24 @@
+# ROS
+build/
+devel/
+logs/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+
+# Temporary scripts
+*.sh
